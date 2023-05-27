@@ -1,0 +1,14 @@
+>Reproductor actualizado a 2.0.1!
+
+Proximamanete versión 3.0!
+Con todo lo nuevo pero asta ahora seran mini actualizaciónes cada comienzo de mes 15-17.
+
+---------------------------------------------------------------
+
+Ej.html
+
+Seria un ejemplo de una estructura basica responsive.
+
+--------------------------------------------------------------
+
+
